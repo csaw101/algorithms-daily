@@ -3,5 +3,9 @@
 *.gcno
 *.gcda
 *.gcov
+
 main
+test
 .gdb_history
+days
+Session.vim
