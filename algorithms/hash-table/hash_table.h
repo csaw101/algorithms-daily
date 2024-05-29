@@ -5,6 +5,7 @@ typedef struct {
 
 typedef struct {
 	int size;
+	int base_size;
 	int count;
 	HashItem** items;
 } HashTable;
